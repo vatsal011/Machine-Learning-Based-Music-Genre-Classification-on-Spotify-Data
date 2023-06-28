@@ -7,7 +7,7 @@ Name: Vatsal Khushalani
 
 Since Github does not support file upload of more than 25 MB, please find the drive link to the flask folder below.
 
-Run the command to install spotipy. It is used to gather audio features from Spotify API
+Run the command in terminal to install spotipy. It is used to gather audio features from Spotify API.
 
 pip install spotipy
 
