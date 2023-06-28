@@ -6,6 +6,7 @@ Title: Machine Learning-Based Music Genre Classification on Spotify Data
 Name: Vatsal Khushalani
 
 Since Github does not support file upload of more than 25 MB, please find the drive link to the flask folder below.
+https://drive.google.com/file/d/1Q2VjIPYjiaBZrpOLiDnCjIQy2sDr1GUc/view?usp=sharing
 
 Run the command in terminal to install spotipy. It is used to gather audio features from Spotify API.
 
